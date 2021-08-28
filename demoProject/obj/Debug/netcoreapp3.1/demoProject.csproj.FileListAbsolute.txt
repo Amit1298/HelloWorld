@@ -1,0 +1,14 @@
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\bin\Debug\netcoreapp3.1\demoProject.exe
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\bin\Debug\netcoreapp3.1\demoProject.deps.json
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\bin\Debug\netcoreapp3.1\demoProject.runtimeconfig.json
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\bin\Debug\netcoreapp3.1\demoProject.runtimeconfig.dev.json
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\bin\Debug\netcoreapp3.1\demoProject.dll
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\bin\Debug\netcoreapp3.1\demoProject.pdb
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.csproj.AssemblyReference.cache
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.AssemblyInfoInputs.cache
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.AssemblyInfo.cs
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.csproj.CoreCompileInputs.cache
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.dll
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.pdb
+G:\BridgeLabz Solution\Dot net\August\27-08-2021\demoProject\demoProject\obj\Debug\netcoreapp3.1\demoProject.genruntimeconfig.cache
